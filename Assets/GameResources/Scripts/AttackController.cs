@@ -5,10 +5,9 @@ public class AttackController : MonoBehaviour
 {
     public event Action OnShot = delegate { };
 
-    [SerializeField] private Weapon myWeapon;
     [SerializeField] private Collider2D rangeAttack;
-    [Space]
-    [SerializeField] private float delayAttack = 1f;
+    
+    public float DelayAttack { get; private set; } = 1f;
     private float rechargeAttack = 0f;
     
     private void Update()
@@ -17,18 +16,19 @@ public class AttackController : MonoBehaviour
         {
             Attack();
         }
+
+        if (rechargeAttack > 0)
+        {
+            rechargeAttack -= Time.deltaTime;
+        }
     }
 
     private void Attack()
     {
         if (rechargeAttack <= 0)
         {
-            rechargeAttack = delayAttack;
+            rechargeAttack = DelayAttack;
             Shot();
-        }
-        else if (rechargeAttack > 0)
-        {
-            rechargeAttack -= Time.deltaTime;
         }
     }
 

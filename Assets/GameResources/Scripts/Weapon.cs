@@ -1,6 +1,5 @@
 ﻿using DG.Tweening;
 using Shapes;
-using System;
 using System.Collections;
 using UnityEngine;
 
@@ -14,7 +13,7 @@ public class Weapon : MonoBehaviour
 {
     [SerializeField] private ShapeRenderer myShape;  
     [SerializeField] private AttackController myAttackController;
-    [SerializeField] private Vector3 range = new Vector3(0f,0f,180f);
+    [SerializeField] private Vector3 range = new Vector3(0f,0f,90f);
     [SerializeField] Quaternion startPos;
     [SerializeField] private float speed = 1f;
 
@@ -23,12 +22,17 @@ public class Weapon : MonoBehaviour
     {
         startPos = transform.localRotation;
         myAttackController.OnShot += AnimateAttack;
+
+        if(speed < myAttackController.DelayAttack)
+        {
+            speed = myAttackController.DelayAttack;
+        }
     }
 
     private void AnimateAttack()
     {
         myShape.enabled = true;
-        transform.DORotate(range, speed);
+        transform.DOLocalRotate(range, speed);
         if (reseting == null)
         {
             reseting = StartCoroutine(ResetWeapon());

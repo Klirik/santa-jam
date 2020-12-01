@@ -1,29 +1,53 @@
 ﻿using UnityEngine;
 
 public class MovementController : MonoBehaviour
-{
-    [Range(0.01f,1f)]
-    [SerializeField] private float speed = 1f;
+{        
+    public enum Direction 
+    {
+        Right = 0,
+        Up = 90,
+        Left = 180,
+        Down = 270
+    }
+
+    public Direction MyDirection = Direction.Right;
+
+    [SerializeField] private float speed = 8f;
 
     //TODO: Поворот персонажа лево-право вверх-вниз
     private void Update()
     {
-        //motion controll of object 
-        if (Input.GetKey(KeyCode.W))
+        Vector3 direction = new Vector3(Input.GetAxis("Horizontal"),  Input.GetAxis("Vertical"), 0);
+
+        if(direction.magnitude != 0)
         {
-            transform.position += Vector3.up * speed;
+            transform.position += speed * Time.deltaTime * direction;
+
+            float angle = Vector2.SignedAngle(Vector3.right, direction);
+            if(angle < 45 && angle > -45)
+            {
+                transform.rotation = Quaternion.Euler(0, 0, (float)Direction.Right);
+                MyDirection = Direction.Right;
+            }
+            else if (angle < 135 && angle > 45)
+            {
+                transform.rotation = Quaternion.Euler(0, 0, (float)Direction.Up);
+                MyDirection = Direction.Up;
+            }
+            else if (angle < -45 && angle > -135)
+            {
+                transform.rotation = Quaternion.Euler(0, 0, (float)Direction.Down);
+                MyDirection = Direction.Down;
+            }
+            else 
+            {
+                transform.rotation = Quaternion.Euler(0, 0, (float)Direction.Left);
+                MyDirection = Direction.Left;
+            }
+            Debug.Log(angle);
         }
-        if (Input.GetKey(KeyCode.A))
-        {
-            transform.position += Vector3.left * speed;
-        }
-        if (Input.GetKey(KeyCode.D))
-        {
-            transform.position += Vector3.right * speed;
-        }
-        if (Input.GetKey(KeyCode.S))
-        {
-            transform.position += Vector3.down * speed;
-        }
+        
     }
+
+
 }
