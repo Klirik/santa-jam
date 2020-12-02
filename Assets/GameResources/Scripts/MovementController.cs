@@ -14,7 +14,6 @@ public class MovementController : MonoBehaviour
 
     [SerializeField] private float speed = 8f;
 
-    //TODO: Поворот персонажа лево-право вверх-вниз
     private void Update()
     {
         Vector3 direction = new Vector3(Input.GetAxis("Horizontal"),  Input.GetAxis("Vertical"), 0);
@@ -24,7 +23,7 @@ public class MovementController : MonoBehaviour
             transform.position += speed * Time.deltaTime * direction;
 
             float angle = Vector2.SignedAngle(Vector3.right, direction);
-            if(angle < 45 && angle > -45)
+            if(angle <= 45 && angle >= -45)
             {
                 transform.rotation = Quaternion.Euler(0, 0, (float)Direction.Right);
                 MyDirection = Direction.Right;
@@ -44,7 +43,6 @@ public class MovementController : MonoBehaviour
                 transform.rotation = Quaternion.Euler(0, 0, (float)Direction.Left);
                 MyDirection = Direction.Left;
             }
-            Debug.Log(angle);
         }
         
     }
