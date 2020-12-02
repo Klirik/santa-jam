@@ -14,7 +14,7 @@ public class MovementController : MonoBehaviour
 
     [SerializeField] private float speed = 8f;
 
-    private void Update()
+    public void DoStep()
     {
         Vector3 direction = new Vector3(Input.GetAxis("Horizontal"),  Input.GetAxis("Vertical"), 0);
 

@@ -860,7 +860,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: -6.9e-44, y: NaN, z: 3.9e-44, w: 2.296e-41}
+  m_BoundingSphereOverride: {x: 7.7e-44, y: 1.1e-44, z: 6e-45, w: 1.1754945e-38}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -1628,6 +1628,7 @@ GameObject:
   - component: {fileID: 1433113634}
   - component: {fileID: 1433113633}
   - component: {fileID: 1433113638}
+  - component: {fileID: 1433113639}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -1749,7 +1750,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8acc6092fb753a44691570566684ccf4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rangeAttack: {fileID: 1049315888}
+  weapon: {fileID: 1049315889}
+--- !u!114 &1433113639
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1433113632}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91a4faaf5aed28b4a9571aff12609767, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  movement: {fileID: 1433113633}
+  attackController: {fileID: 1433113638}
 --- !u!1 &1450940690
 GameObject:
   m_ObjectHideFlags: 0

@@ -13,7 +13,7 @@ public enum TypeWeapon
 [RequireComponent (typeof(Collider2D))]
 public class Weapon : MonoBehaviour
 {
-    public event Action OnEndAnimateAttack = delegate { };
+    public event Action<bool> OnEndAnimateAttack = delegate { };
 
     [SerializeField] private ShapeRenderer myShape;  
     [SerializeField] private AttackController myAttackController;
@@ -52,7 +52,8 @@ public class Weapon : MonoBehaviour
         myShape.enabled = false;
         transform.localRotation = startPos;
         reseting = null;
-        OnEndAnimateAttack?.Invoke();
+        //off animation
+        OnEndAnimateAttack?.Invoke(false);
     }
 
     private void OnDestroy()
