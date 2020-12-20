@@ -1,0 +1,1711 @@
+fileFormatVersion: 2
+guid: b3199c83ade40db43b5e61c6deef6243
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3022809940545594955
+    second: ZRPGtrees_0
+  - first:
+      213: 1115000334668074188
+    second: ZRPGtrees_1
+  - first:
+      213: 637736667351902444
+    second: ZRPGtrees_2
+  - first:
+      213: -7810506512644562881
+    second: ZRPGtrees_3
+  - first:
+      213: -8958435110863180486
+    second: ZRPGtrees_4
+  - first:
+      213: 4918536196119528230
+    second: ZRPGtrees_5
+  - first:
+      213: -5210189110203922180
+    second: ZRPGtrees_6
+  - first:
+      213: 8129077600925207118
+    second: ZRPGtrees_7
+  - first:
+      213: 7733032360477349330
+    second: ZRPGtrees_8
+  - first:
+      213: -5565749786329028982
+    second: ZRPGtrees_9
+  - first:
+      213: 4983419184529920847
+    second: ZRPGtrees_10
+  - first:
+      213: -4767894429965383745
+    second: ZRPGtrees_11
+  - first:
+      213: -4431192952029887612
+    second: ZRPGtrees_12
+  - first:
+      213: -8657954824727671306
+    second: ZRPGtrees_13
+  - first:
+      213: -8585982377269438270
+    second: ZRPGtrees_14
+  - first:
+      213: -2526235353944206768
+    second: ZRPGtrees_15
+  - first:
+      213: -527684648776962840
+    second: ZRPGtrees_16
+  - first:
+      213: -152378902366266879
+    second: ZRPGtrees_17
+  - first:
+      213: 232947658872407588
+    second: ZRPGtrees_18
+  - first:
+      213: -3603401456689878019
+    second: ZRPGtrees_19
+  - first:
+      213: -171994115706832209
+    second: ZRPGtrees_20
+  - first:
+      213: -3431138521019985631
+    second: ZRPGtrees_21
+  - first:
+      213: 6378667898871377041
+    second: ZRPGtrees_22
+  - first:
+      213: 1586484416608474416
+    second: ZRPGtrees_23
+  - first:
+      213: 344615320218894484
+    second: ZRPGtrees_24
+  - first:
+      213: 5996320621175649763
+    second: ZRPGtrees_25
+  - first:
+      213: -1842522055369380246
+    second: ZRPGtrees_26
+  - first:
+      213: 7371016184197067412
+    second: ZRPGtrees_27
+  - first:
+      213: -6571756808930545536
+    second: ZRPGtrees_28
+  - first:
+      213: 1380536749775663725
+    second: ZRPGtrees_29
+  - first:
+      213: 4898594671611828609
+    second: ZRPGtrees_30
+  - first:
+      213: -7199966499068223562
+    second: ZRPGtrees_31
+  - first:
+      213: -2021517663888958839
+    second: ZRPGtrees_32
+  - first:
+      213: -4136858687486396323
+    second: ZRPGtrees_33
+  - first:
+      213: -5289597494248710250
+    second: ZRPGtrees_34
+  - first:
+      213: 5819131248463767288
+    second: ZRPGtrees_35
+  - first:
+      213: 972365818082426221
+    second: ZRPGtrees_36
+  - first:
+      213: 3823747514750789855
+    second: ZRPGtrees_37
+  - first:
+      213: 1481207047492804665
+    second: ZRPGtrees_38
+  - first:
+      213: -8794541387193279898
+    second: ZRPGtrees_39
+  - first:
+      213: -4431960477060083290
+    second: ZRPGtrees_40
+  - first:
+      213: -5428069461189589824
+    second: ZRPGtrees_41
+  - first:
+      213: 3163767145588082832
+    second: ZRPGtrees_42
+  - first:
+      213: -5097392210840364893
+    second: ZRPGtrees_43
+  - first:
+      213: 138194977609051331
+    second: ZRPGtrees_44
+  - first:
+      213: -4857576183380881166
+    second: ZRPGtrees_45
+  - first:
+      213: 6686574776065540292
+    second: ZRPGtrees_46
+  - first:
+      213: -7700515490001649879
+    second: ZRPGtrees_47
+  - first:
+      213: -831777003521406528
+    second: ZRPGtrees_48
+  - first:
+      213: 4264982841453602850
+    second: ZRPGtrees_49
+  - first:
+      213: -8858785556768573252
+    second: ZRPGtrees_50
+  - first:
+      213: -8795397138512570332
+    second: ZRPGtrees_51
+  - first:
+      213: 7105767164585866112
+    second: ZRPGtrees_52
+  - first:
+      213: -4801753874322430169
+    second: ZRPGtrees_53
+  - first:
+      213: -6148116535845369577
+    second: ZRPGtrees_54
+  - first:
+      213: -4868318931131583658
+    second: ZRPGtrees_55
+  - first:
+      213: -2192056698970719145
+    second: ZRPGtrees_56
+  - first:
+      213: 1477711203787793729
+    second: ZRPGtrees_57
+  - first:
+      213: 8390140357394552521
+    second: ZRPGtrees_58
+  - first:
+      213: 1539906955441640130
+    second: ZRPGtrees_59
+  - first:
+      213: -5065138250955036803
+    second: ZRPGtrees_60
+  - first:
+      213: -6226753354625421823
+    second: ZRPGtrees_61
+  - first:
+      213: 8406882349400722947
+    second: ZRPGtrees_62
+  - first:
+      213: 5605019912796017665
+    second: ZRPGtrees_63
+  - first:
+      213: 2123888712160424181
+    second: ZRPGtrees_64
+  - first:
+      213: -5332810450795183121
+    second: ZRPGtrees_65
+  - first:
+      213: 1824371773637987093
+    second: ZRPGtrees_66
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZRPGtrees_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 701
+        width: 347
+        height: 305
+      alignment: 9
+      pivot: {x: 0.40830365, y: 0.11578469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa1919fecda50944b1f8d3f95696600
+      internalID: 3022809940545594955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_1
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 841
+        width: 207
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa47de88a512ff04c9054f4c2da78f62
+      internalID: 1115000334668074188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_2
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 841
+        width: 197
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d806963da61a5c49a9dd4f3dc10bef9
+      internalID: 637736667351902444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 896
+        width: 145
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d154566491220634085f28be1bbac64a
+      internalID: -7810506512644562881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_4
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 799
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d881316a897c7b84cb1bffd0d4148d93
+      internalID: -8958435110863180486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_5
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 800
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01b26c2420e13d4482eba1aef96d504
+      internalID: 4918536196119528230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_6
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 863
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc32ee51541a1ef4491ba7b2c843dd2a
+      internalID: -5210189110203922180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 672
+        width: 177
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91a40171de37b44495f4bb3d02fa4ba
+      internalID: 8129077600925207118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_8
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 512
+        width: 347
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5670ddf1c2d01cb41b413b0906199e3c
+      internalID: 7733032360477349330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 454
+        width: 208
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13439be7f5425b5478545e1c9171ff42
+      internalID: -5565749786329028982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 454
+        width: 205
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749387b935d9eb549a73d8fa379cc2d4
+      internalID: 4983419184529920847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0c56157098d12439d63828006abbb3
+      internalID: -4767894429965383745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_12
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 501
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936f61c105e05d74da9c808f63678343
+      internalID: -4431192952029887612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_13
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 394
+        width: 210
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fe30541c314da41b84f7984a7e680f
+      internalID: -8657954824727671306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_14
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 433
+        width: 136
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dad7da8799716c4c8f92bcbe8a92d17
+      internalID: -8585982377269438270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_15
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 493
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dcf7794cb26e34aaeef2d528e8c9c2
+      internalID: -2526235353944206768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 488
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88afc67c28af624a964f115282f5767
+      internalID: -527684648776962840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_17
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 467
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fd029247eaabc43a7dff6ecba08010
+      internalID: -152378902366266879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_18
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 435
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34b9fd121d766444b876da026b31785
+      internalID: 232947658872407588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_19
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 230
+        width: 198
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438528b04e7b1c448b00d492e035efff
+      internalID: -3603401456689878019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_20
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 357
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc5edb15f828c744ab25a4d3814072d
+      internalID: -171994115706832209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_21
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 353
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56ff2176ce189e44828cd6189bf6e44
+      internalID: -3431138521019985631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_22
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 354
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c8bb22f4e54da47bf00ed65bd113bc
+      internalID: 6378667898871377041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_23
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 352
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b6a8821e5b28e498dd7656b596420d
+      internalID: 1586484416608474416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_24
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 356
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d325827f5c7e843b69d1f612115fb6
+      internalID: 344615320218894484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_25
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 225
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2172fe12083ea5c4da0f5fccbe879ff7
+      internalID: 5996320621175649763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_26
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 321
+        width: 137
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86eeb271aac36754487e2aa9f56aa561
+      internalID: -1842522055369380246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 302
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c28950051261c4cb8153dfe4af0709
+      internalID: 7371016184197067412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_28
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 328
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71270768cfc6488489785670cc5bad66
+      internalID: -6571756808930545536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 325
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1544426f856ad584daedd33f083ca60f
+      internalID: 1380536749775663725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_30
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 272
+        width: 31
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5533e9d0a8224bd4ca8c2e7a8b86c305
+      internalID: 4898594671611828609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_31
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 288
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d233c73dfff09a4dae63f2cb35ffd2e
+      internalID: -7199966499068223562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_32
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 292
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffb83ed3d46de14c8f387c252822563
+      internalID: -2021517663888958839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 292
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae6ab18ad57c2a49a02a7ed118cd656
+      internalID: -4136858687486396323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 290
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfe4add0a6cfb54bb7a2186f0d3bfb2
+      internalID: -5289597494248710250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_35
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 256
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcdac0831014ff41a4144594934a112
+      internalID: 5819131248463767288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_36
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 275
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcef7ee644dc06a40a9dfc02967cd97d
+      internalID: 972365818082426221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_37
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 270
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cc4c4c135a4534bb610bc17b105eef
+      internalID: 3823747514750789855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 169
+        width: 111
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df32f588ed9ee254db6b6afefe18b77f
+      internalID: 1481207047492804665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_39
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 185
+        width: 181
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ae65a7367728f48b6a3716a4c8b8a2
+      internalID: -8794541387193279898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_40
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 256
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c314e0fac32a529448c165f1151fed77
+      internalID: -4431960477060083290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_41
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 226
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855296868539b06439e3ee933acdbaab
+      internalID: -5428069461189589824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 170
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a54c50b718bf44182fee34c381cc09
+      internalID: 3163767145588082832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_43
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 191
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63289058034c26b4e95b28f1795fce56
+      internalID: -5097392210840364893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_44
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 174
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c419310b6ed994fb5117c24397b898
+      internalID: 138194977609051331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 205
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f26cb049efbfa24d97db46604258fc7
+      internalID: -4857576183380881166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_46
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 200
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620a2b3cb215a0140b4ae815a09165d3
+      internalID: 6686574776065540292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_47
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 193
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a62951aac609e41b53b3e326b5a866
+      internalID: -7700515490001649879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_48
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 160
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcd0a15fd321a346a414b979aecaaf0
+      internalID: -831777003521406528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_49
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 174
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd39f188087fb44485752be0cecd834
+      internalID: 4264982841453602850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_50
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 167
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31c5a229c3e9d54b9615a5b79ae166e
+      internalID: -8858785556768573252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 172
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fe56696bcbc154d9179643007a8397
+      internalID: -8795397138512570332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_52
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 168
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabc9aa1aac41ab4cb8699113d3679fb
+      internalID: 7105767164585866112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 122
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069cf44f81afbce4aa111f376484d057
+      internalID: -4801753874322430169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_54
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 109
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948f8e6a7a3b594428e09de138d83cdb
+      internalID: -6148116535845369577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 106
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e083441928dd5d478224cec5266e35c
+      internalID: -4868318931131583658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_56
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 106
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050b512e2677730469140b9949fc6bf0
+      internalID: -2192056698970719145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_57
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 106
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d13b98630f09b244aa70ff5978f84bf
+      internalID: 1477711203787793729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_58
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 113
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a395e2efecdd224ca8bd268f43e1267
+      internalID: 8390140357394552521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_59
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 99
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5756262294c2a4f478aed32defb465d1
+      internalID: 1539906955441640130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_60
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 21
+        width: 226
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6501eb8805713b47a2b8497511b2270
+      internalID: -5065138250955036803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_61
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 23
+        width: 184
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf9342df59635f40b1f672c77f2e648
+      internalID: -6226753354625421823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_62
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7a3bc3bba87aa4fb648c42f482ed88
+      internalID: 8406882349400722947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e77539350b6de847beb0034165438bb
+      internalID: 5605019912796017665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_64
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7b5e05e8123b74ebc36ff46b5da392
+      internalID: 2123888712160424181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 81
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504309d9c80756841824d5a41ef4da0b
+      internalID: -5332810450795183121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGtrees_66
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 3
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f72de86cfc6404b8f9ccabdcb37471
+      internalID: 1824371773637987093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

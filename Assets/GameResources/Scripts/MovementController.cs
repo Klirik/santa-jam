@@ -1,51 +1,70 @@
 ﻿using UnityEngine;
 
-public class MovementController : MonoBehaviour
-{        
-    public enum Direction 
-    {
-        Right = 0,
-        Up = 90,
-        Left = 180,
-        Down = 270
-    }
+public enum Direction 
+{
+    Up = 0,
+    Left = 90,
+    Down = 180,
+    Right = 270
+}
 
-    public Direction MyDirection = Direction.Right;
+public enum AnimDirect
+{
+    Up = 1,
+    Left = 2,
+    Down = 3,
+    Right = 4
+}
+
+public class MovementController : MonoBehaviour
+{
+    public static Direction MyDirection { get; private set; } = Direction.Right;
 
     [SerializeField] private float speed = 8f;
+    [SerializeField] private Animator animator;
+
+    private bool isWalk = false;
 
     public void DoStep()
     {
         Vector3 direction = new Vector3(Input.GetAxis("Horizontal"),  Input.GetAxis("Vertical"), 0);
 
-        if(direction.magnitude != 0)
+        if(!Mathf.Approximately(direction.magnitude, 0))
         {
             transform.position += speed * Time.deltaTime * direction;
 
             float angle = Vector2.SignedAngle(Vector3.right, direction);
-            if(angle <= 45 && angle >= -45)
+            if(angle <= 45 && angle >= -45) 
             {
-                transform.rotation = Quaternion.Euler(0, 0, (float)Direction.Right);
                 MyDirection = Direction.Right;
+                animator.SetInteger("State", (int)AnimDirect.Right);
             }
             else if (angle < 135 && angle > 45)
-            {
-                transform.rotation = Quaternion.Euler(0, 0, (float)Direction.Up);
+            {             
                 MyDirection = Direction.Up;
+                animator.SetInteger("State", (int)AnimDirect.Up);
             }
             else if (angle < -45 && angle > -135)
-            {
-                transform.rotation = Quaternion.Euler(0, 0, (float)Direction.Down);
+            {             
                 MyDirection = Direction.Down;
+                animator.SetInteger("State", (int)AnimDirect.Down);
             }
             else 
             {
-                transform.rotation = Quaternion.Euler(0, 0, (float)Direction.Left);
                 MyDirection = Direction.Left;
+                animator.SetInteger("State", (int)AnimDirect.Left);
             }
+            isWalk = true;
         }
-        
+        else
+        {
+            isWalk = false;
+        }     
+        animator.SetBool("IsWalk", isWalk);
     }
 
-
+    public static Quaternion GetDirection()
+    {
+        return Quaternion.Euler(0, 0, (float) MyDirection);
+    }
 }

@@ -13,9 +13,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - Tilemap
+  - Weapon
+  - Enemy
   - 
   - 
   - 
@@ -38,6 +38,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Tilemap
+    uniqueID: 799316579
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
